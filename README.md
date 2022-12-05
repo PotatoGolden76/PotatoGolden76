@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![](https://hit.yhype.me/github/profile?user_id=26687462)
-
 Hello there, I'm Robert, also known as GoldenPotato76. I'm a 2nd year Computer Science student with a ton of passions and not enough time for them all. 
 
 - 🛠 I’m currently working on: Some websites and a toy interpreter in Java
