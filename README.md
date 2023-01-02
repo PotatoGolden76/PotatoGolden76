@@ -20,4 +20,4 @@ Hello there, I'm Robert, also known as GoldenPotato76. I'm a 2nd year Computer S
 - 📚 I’m currently learning: Computational Photography and how to improve my React workflow
 - 👷‍♀️ I’m looking to collaborate on: Basically anything, if you have a cool idea hit me up!
 - ✨ Pronouns: he/him
-- 🎁 Fun fact: 🍌🥔🍌🥔🍌🥔🍌🥔
+
