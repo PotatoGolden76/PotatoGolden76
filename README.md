@@ -19,5 +19,5 @@ Hello there, I'm Robert, also known as GoldenPotato76. I'm a 2nd year Computer S
 - 🛠 I’m currently working on: Some websites and a game for a competition
 - 📚 I’m currently learning: Some procedural generation techniques
 - 👷‍♀️ I’m looking to collaborate on: Basically anything, if you have a cool idea hit me up!
-- ✨ Pronouns: he/they - all/any
+- ✨ Pronouns: he/they
 
