@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://hit.yhype.me/github/profile?user_id=26687462)
-Hello there, I'm Robert, also known as GoldenPotato76. I'm a 3nd year Computer Science student with a ton of hobbies and not enough time for them all. 
+Hello there, I'm Robert, also known as GoldenPotato76. I'm a 3rd year Computer Science student with a ton of hobbies and not enough time for them all. 
 
 - 🛠 I’m currently working on: Some mobile applications and university assignments
 - 📚 I’m currently learning: Kotlin and Flutter
