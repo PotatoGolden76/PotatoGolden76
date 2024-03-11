@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ![](https://hit.yhype.me/github/profile?user_id=26687462)
 Hello there, I'm Robert, also known as GoldenPotato76. I'm a 3rd year Computer Science student with a ton of hobbies and not enough time for them all. 
 
-- 🛠 I’m currently working on: procedural generation POCs
-- 📚 I’m currently learning: procedural generation related topics + preparing for exams
+- 🛠 I’m currently working on: Bachelor Thesis
+- 📚 I’m currently learning: everything's on hold until my Thesis is done :)
 - 👷‍♀️ I’m looking to collaborate on: Basically anything, if you have a cool idea hit me up!
 - ✨ Pronouns: he/they
 
